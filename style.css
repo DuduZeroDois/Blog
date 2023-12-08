@@ -1,0 +1,12 @@
+.filmes-header{
+    font-size: 21px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmes-header i{
+    float: right;
+}
+.filmes-text span{
+    color: darkgoldenrod;
+}
